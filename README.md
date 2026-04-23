@@ -10,4 +10,5 @@
 
 ## مخرجات التنفيذ:
 
-![alt text](../photo_2026-04-23_00-22-33.jpg)
+
+<img width="749" height="971" alt="photo_2026-04-23_00-22-33" src="https://github.com/user-attachments/assets/5051647c-3d1a-48c6-90ee-735370f9e295" />
